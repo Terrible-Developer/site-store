@@ -1,24 +1,2 @@
-# site
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+No momento, isso é um projeto morto. Estamos na tentativa de reviver ele, quem sabe.
+É (ou melhor, vai ser) o site de uma loja, sem mais detalhes no momento.
