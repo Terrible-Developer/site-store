@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Nyes" src="../assets/padoru.jpg" />
-    <h3>Heaven's Feel é a melhor rota</h3>
+    <img alt="Marciello, the founder of this store." src="../assets/marciellotouille.png" />
+    <h3>Welcome-a to-a my-a store-a</h3>
   </div>
 </template>
 
