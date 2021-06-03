@@ -1,12 +1,24 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <TopBar />
   </div>
   <router-view/>
 </template>
 
+<script>
+  import TopBar from './components/TopBar.vue';
+
+  export default{
+      components: {
+          TopBar
+      }
+  }
+</script>
+
 <style lang="sass">
+body
+  background-color: #808080
+
 #app
   font-family: Avenir, Helvetica, Arial, sans-serif
   -webkit-font-smoothing: antialiased
@@ -16,14 +28,7 @@
 
 
 #nav
-  padding: 30px
+  padding: 15px
 
-  a
-    font-weight: bold
-    color: #2c3e50
 
-    &.router-link-exact-active
-      color: #42b983
-
-  
 </style>
