@@ -3,6 +3,10 @@
     <TopBar />
   </div>
   <router-view/>
+  <br/>
+  <footer>
+    @LojasMarciello®™
+  </footer>
 </template>
 
 <script>

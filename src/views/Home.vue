@@ -13,6 +13,11 @@
       <span v-on:click="imageChangeClick($event, 3)">Imagem 4</span>
     </p>
     <h3>Welcome-a to-a my-a store-a</h3>
+    <p>
+      Olá <br/>
+      Meu nome é Marcelo, e essa é minha loja <br/>
+      Insira textão
+    </p>
   </div>
 </template>
 
